@@ -1,14 +1,17 @@
 div{
-    background-color: rgb(60, 188, 247);
-    height: 180px;
-    width : 300%;
-    border : 4px solid rgb(43, 178, 241);
-    border-radius: 10px;
-    box-shadow: 5px 5px 15px rgb(2, 48, 70);
-    font-size: xx-large;
-    font-family: Gill sans;
-    font-style: initial;
-    color: aliceblue;
+    background: url("img/lipky\ \(9\).jpeg") center/cover no-repeat;
+height: 200px;
+width: 100%;
+border: 4px solid rgb(43, 178, 241);
+border-radius: 10px;
+box-shadow: 5px 5px 15px rgb(2, 48, 70);
+font-size: large;
+font-family: 'Times New Roman', Times, serif;
+color: aliceblue;
+
+
+
+    color: white;
     
 
 }
@@ -28,3 +31,4 @@ h4{
 h2{
     color: aliceblue;
 }
+
